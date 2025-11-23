@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Today is: **{{date}}**
+Today is: **Sunday, November 23, 2025**
 
 <!--
 **julienbonneval/julienbonneval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
